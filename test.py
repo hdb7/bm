@@ -8,7 +8,7 @@ jpg_to_png = 'python3 bm.py -cpng -f IU.jpg'
 pdf_to_jpg = 'python3 bm.py -pjpg -f mementopython3-english.pdf'
 pdf_compresed = 'python3 bm.py -pdf -f mementopython3-english.pdf -q 3 -of out.pdf'
 img_to_pdf = 'python3 bm.py -cpdf -f IU.jpg'
-png_to_jpg = 'python3 bm.py -cjpg -f download.png'
+png_to_jpg = 'python3 bm.py -cjpg -f BM.png'
 
 print("Testing...")
 
