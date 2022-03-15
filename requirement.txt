@@ -1,0 +1,5 @@
+REQUIREMENTS:
+	1.pdf2image-1.16.0
+	2.img2pdf 0.4.3
+	3.poppler-util
+  4.ghostscript 9.53.3
